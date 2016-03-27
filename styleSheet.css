@@ -1,0 +1,15 @@
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: blue;
+}
+
+ h1 {
+  font-type: Glegoo;
+  color: red;
+  text-shadow: 2px 2px #000000;
+ }
+
+table, tr, td{
+   border: 1px solid black;
+   padding: 10px;
+ }
